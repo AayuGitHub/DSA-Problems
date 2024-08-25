@@ -60,5 +60,8 @@
   "files.associations": {
     "vector": "cpp",
     "algorithm": "cpp"
-  }
+  },
+  "cSpell.words": [
+    "onepiece"
+  ]
 }
